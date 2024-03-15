@@ -1,10 +1,14 @@
 <h1 align="center">Hi there, I'm Riya Sonal! 👋</h1>
 
-<h3 align="center">🎓 Aspiring CSE Undergraduate</h3>
-<h3 align="center">🔭 I’m currently working on GenAI and ML</h3>
-<h3 align="center">🌱 I’m currently learning Computer Science</h3>
-<h3 align="center">💬 Ask me about Python, Java, React, and Node</h3>
-<h3>📫 How to reach me: <a href="mailto:riyasonalnazareth16@gmail.com">riyasonalnazareth16@gmail.com</a></h3>
+🎓 Aspiring CSE Undergraduate
+
+🔭 I’m currently working on GenAI and ML
+
+🌱 I’m currently learning Computer Science
+
+💬 Ask me about Python, Java, React, and Node
+
+📫 How to reach me: [riyasonalnazareth16@gmail.com](mailto:riyasonalnazareth16@gmail.com)
 
 ### Connect with me:
 
