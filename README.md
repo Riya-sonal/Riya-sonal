@@ -4,7 +4,7 @@
 <h3 align="center">🔭 I’m currently working on GenAI and ML</h3>
 <h3 align="center">🌱 I’m currently learning Computer Science</h3>
 <h3 align="center">💬 Ask me about Python, Java, React, and Node</h3>
-<h3 align="center">📫 How to reach me: <a href="mailto:riyasonalnazareth16@gmail.com">riyasonalnazareth16@gmail.com</a></h3>
+<h3>📫 How to reach me: <a href="mailto:riyasonalnazareth16@gmail.com">riyasonalnazareth16@gmail.com</a></h3>
 
 ### Connect with me:
 
