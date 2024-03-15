@@ -1,27 +1,25 @@
-### Hi there, I'm Riya Sonal! 👋
+<h1 align="center">Hi there, I'm Riya Sonal! 👋</h1>
 
-🎓 Aspiring CSE Undergraduate
-
-🔭 I’m currently working on GenAI and ML
-
-🌱 I’m currently learning Computer Science
-
-💬 Ask me about Python, Java, React, and Node
-
-📫 How to reach me: [riyasonalnazareth16@gmail.com](mailto:riyasonalnazareth16@gmail.com)
+<h3 align="center">🎓 Aspiring CSE Undergraduate</h3>
+<h3 align="center">🔭 I’m currently working on GenAI and ML</h3>
+<h3 align="center">🌱 I’m currently learning Computer Science</h3>
+<h3 align="center">💬 Ask me about Python, Java, React, and Node</h3>
+<h3 align="center">📫 How to reach me: <a href="mailto:riyasonalnazareth16@gmail.com">riyasonalnazareth16@gmail.com</a></h3>
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Sonal-blue)](https://www.linkedin.com/in/riya-sonal-nazareth-20b26a227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-riya1672-green)](https://www.hackerearth.com/@riya1672)
-[![GitHub](https://img.shields.io/github/followers/Riya-sonal?label=Follow&style=social)](https://github.com/Riya-sonal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://riya-sonal.github.io/O-portfolio/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-sonal-nazareth-20b26a227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Sonal-blue" alt="LinkedIn"></a>
+  <a href="https://www.hackerearth.com/@riya1672" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-riya1672-green" alt="HackerEarth"></a>
+  <a href="https://github.com/Riya-sonal" target="_blank"><img src="https://img.shields.io/github/followers/Riya-sonal?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://riya-sonal.github.io/O-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue" alt="Portfolio"></a>
+</p>
 
 ---
 
 ### Languages and Tools:
 
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
   <img alt="Java" src="https://img.shields.io/badge/Java-Intermediate-informational?style=flat&logo=java&logoColor=white&color=007396" />
   <img alt="React" src="https://img.shields.io/badge/React-Intermediate-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
@@ -48,5 +46,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-sonal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-
