@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Sonal-blue)](https://www.linkedin.com/in/riya-sonal-nazareth-20b26a227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Twitter](https://img.shields.io/twitter/follow/riyasonal?style=social)](https://twitter.com/riyasonal)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-riya1672-green)](https://www.hackerearth.com/@riya1672)
 [![GitHub](https://img.shields.io/github/followers/Riya-sonal?label=Follow&style=social)](https://github.com/Riya-sonal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://riya-sonal.github.io/O-portfolio/)
 
@@ -49,10 +49,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-sonal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-### Contribution Activity (January 2024):
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Riya-sonal&custom_title=Contribution%20Activity&theme=rogue&hide_border=true&area=true" alt="Contribution Activity" />
-</p>
